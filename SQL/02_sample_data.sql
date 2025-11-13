@@ -2,6 +2,7 @@
 -- Sample Data for Project Management Database
 -- =========================================
 
+
 -- -------------------
 -- EMPLOYEES
 -- -------------------
@@ -28,6 +29,7 @@ VALUES (202, 'E-Commerce Platform', DATE '2025-02-15', DATE '2025-08-15', 'Ongoi
 
 INSERT INTO PROJECTS (PROJECT_ID, PROJECT_NAME, START_DATE, END_DATE, STATUS)
 VALUES (203, 'Banking Application', DATE '2025-03-01', DATE '2025-09-30', 'Planned');
+
 
 -- -------------------
 -- TASKS
