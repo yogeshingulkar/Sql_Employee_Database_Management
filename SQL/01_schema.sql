@@ -1,4 +1,3 @@
-
 -- Employees Table
 CREATE TABLE EMPLOYEES (
     EMP_ID NUMBER PRIMARY KEY,
